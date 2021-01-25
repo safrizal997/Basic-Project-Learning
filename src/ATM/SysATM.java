@@ -34,9 +34,6 @@ public class SysATM {
         }
 
 
-
-        // PIN = Input.nextInt();
-
         String transaksiBaru = "Insert PIN";
         while (true) {
 
